@@ -1,0 +1,16 @@
+{
+  "drinks": [
+    { "drink_id": 1, "title": "Rum", "price" : 3 },
+    { "drink_id": 2, "title": "Whiskey", "price" : 5 },
+    { "drink_id": 3, "title": "Aperol", "price" : 4 },
+     { "drink_id": 4, "title": "Tequilla", "price" : 2 }
+  ],
+  "Tables": [
+    { "id": 1, "table_id": 1,},
+    { "id": 2, "table_id": 2, },
+        { "id": 3, "table_id": 3,}
+  ],
+  "Orders": [ {
+    "order_id": 1, "table_id": 2, "drink_id": 2, "amount" : 4
+  },],
+}
